@@ -1,0 +1,4 @@
+####Soal no 1 Buatlah algoritma untuk menampilkan angka 1 s/d n, dengan ketentuan: kelipatan 3 diganti "OK", kelipatan 4 diganti "YES", kelipatan 3 & 4 diganti "OKYES"
+Contoh output di bawah adalah ketika nilai "n" = 15
+
+a. 1 OK YES OK 5 OKYES 7 OK YES OK 11 OKYES 13 OK YES

@@ -1,0 +1,3 @@
+SELECT *
+FROM pelanggan
+WHERE nama LIKE '%g%' AND alamat = 'BANDUNG';

@@ -37,20 +37,20 @@ public class Algoritma4SoalPolaAngka {
 //            }
 //        }
 //}
-    public static void main(String[] args) {
-        int n = 5;
-        for (int i = 1; i <= n; i++) {
-            if (i % 2 == 1) { // Baris ganjil (mengular ke bawah)
-                for (int j = 1; j <= n; j++) {
-                    System.out.println();
-                }
-            } else { // Baris genap (mengular ke atas)
-                for (int j = n; j >= 1; j--) {
-                    System.out.println();
-                }
-            }
-            System.out.println();
-        }
-
-    }
+//    public static void main(String[] args) {
+//        int n = 5;
+//        for (int i = 1; i <= n; i++) {
+//            if (i % 2 == 1) { // Baris ganjil (mengular ke bawah)
+//                for (int j = 1; j <= n; j++) {
+//                    System.out.println();
+//                }
+//            } else { // Baris genap (mengular ke atas)
+//                for (int j = n; j >= 1; j--) {
+//                    System.out.println();
+//                }
+//            }
+//            System.out.println();
+//        }
+//
+//    }
 }

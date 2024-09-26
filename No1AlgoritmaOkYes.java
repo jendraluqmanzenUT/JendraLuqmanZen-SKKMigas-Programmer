@@ -1,4 +1,4 @@
-public class AlgoritmaOkYes {
+public class No1AlgoritmaOkYes {
     public static void main(String[] args) {
         int n = 15; // 15 adalah contoh dari soal
 

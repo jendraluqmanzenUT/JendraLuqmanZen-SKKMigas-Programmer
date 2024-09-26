@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class AlgoritmaMenghilangkanKelipatan3 {
+public class No3AlgoritmaMenghilangkanKelipatan3 {
     public static void main(String[] args) {
         int[] n = {12, 9, 13, 6, 10, 4, 7, 2};
 
